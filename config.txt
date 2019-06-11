@@ -1,4 +1,4 @@
-token=NTg4MTE0OTczMTM4NDg1MjY1.XQAbIw.h7tQynpS5Ognw1l5tq9Eh4V9QTA
+
 owner=513666662004686848  
 prefix=$ 
 game=SM Music Bot
