@@ -1,6 +1,6 @@
-token=
-owner=  
-prefix= 
-game= Type help
+token=bot_token
+owner=513666662004686848  
+prefix=$ 
+game=SM Music Bot
 stayinchannel=true
 songinstatus=true
